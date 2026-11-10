@@ -30,9 +30,11 @@ M'interessen les **xarxes i telecomunicacions**, el **desenvolupament web**, les
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
-### 🎮 Featured project
+### 📂 Featured projects
 
-**[INDI · Ghost in the Maze](https://github.com/Magi-gb/INDI)**: 3D maze game in C++ with Qt and OpenGL. Collect the coins and escape the ghost, with first-person camera, minimap, Phong lighting and night mode.
+- 🍽️ **[Serf](https://github.com/Magi-gb/Serf-APP)**: menu management for restaurants based on diners' allergies and intolerances. Built with Ruby on Rails by a 7-person Scrum team for a real client, with code review and CI on GitHub Actions.
+- 🎮 **[INDI · Ghost in the Maze](https://github.com/Magi-gb/INDI)**: 3D maze game in C++ with Qt and OpenGL. Collect the coins and escape the ghost, with first-person camera, minimap, Phong lighting and night mode.
+- 💰 **[Crypto Portfolio Manager](https://github.com/Magi-gb/crypto-portfolio-cli)**: command-line portfolio manager in C++ with daily prices, wallets, buying and selling, average cost and gains, plus a test suite (`make test`).
 
 ### 📫 Contact
 
