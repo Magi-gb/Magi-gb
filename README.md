@@ -4,7 +4,7 @@ Third-year **Computer Engineering** student at the **Universitat Politècnica de
 I'm interested in **networking and telecommunications**, **web development**, **data** and **Industry 4.0**, and I enjoy learning by building my own projects.
 
 <details>
-<summary>🇪🇸 Castellano</summary>
+<summary>Castellano</summary>
 
 Estudiante de tercero de **Ingeniería Informática** en la **Universitat Politècnica de Catalunya (UPC)**.
 Me interesan las **redes y telecomunicaciones**, el **desarrollo web**, los **datos** y la **industria 4.0**, y me gusta aprender construyendo mis propios proyectos.
