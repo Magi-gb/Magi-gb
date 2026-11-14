@@ -21,7 +21,7 @@ M'interessen les **xarxes i telecomunicacions**, el **desenvolupament web**, les
 
 ### 🧭 At a glance
 
-<p><img src="./assets/at-a-glance.svg?v=3" width="640" alt="role: Computer Engineering student (3rd year) @ UPC. focus: Networking & telecommunications, Web development (Ruby on Rails), Data, Industry 4.0. currently_exploring: Self-hosting & home servers, Linux servers, Tailscale & VPNs, AI agents (OpenClaw)." /></p>
+<p><img src="./assets/at-a-glance-v3.svg" width="640" alt="role: Computer Engineering student (3rd year) @ UPC. focus: Networking & telecommunications, Web development (Ruby on Rails), Data, Industry 4.0. currently_exploring: Self-hosting & home servers, Linux servers, Tailscale & VPNs, AI agents (OpenClaw)." /></p>
 
 ### 🛠️ Stack
 
