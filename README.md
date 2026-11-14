@@ -19,36 +19,44 @@ M'interessen les **xarxes i telecomunicacions**, el **desenvolupament web**, les
 
 </details>
 
-### 🧭 At a glance
+### 🔎 Quick facts
 
-```yaml
-role: Computer Engineering student (3rd year) @ UPC
+<table>
+  <tr><td>🎓 <b>Studying</b></td><td>Computer Engineering, 3rd year · Universitat Politècnica de Catalunya (UPC)</td></tr>
+  <tr><td>🎯 <b>Focus</b></td><td>Networking & telecommunications · Web development · Data · Industry 4.0</td></tr>
+  <tr><td>🌱 <b>Currently learning</b></td><td>Docker · Self-hosting & home servers</td></tr>
+  <tr><td>🗣️ <b>Languages</b></td><td>Catalan · Spanish · English (B2)</td></tr>
+</table>
 
-focus:
-  - Networking & telecommunications
-  - Web development (Ruby on Rails)
-  - Data
-  - Industry 4.0
+### 🛠️ Stack
 
-currently_exploring:
-  - Docker
-  - Self-hosting & home servers
+**Programming**
 
-languages: [Catalan, Spanish, English (B2)]
-```
+<p><img src="https://skillicons.dev/icons?i=c,cpp,ruby" alt="C, C++ and Ruby" /></p>
 
-### 🛠️ Tech
+`C` · `C++` · `Ruby`
 
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?logo=rubyonrails&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+**Web**
+
+<p><img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" /></p>
+
+`Ruby on Rails`
+
+**Graphics**
+
+<p><img src="https://skillicons.dev/icons?i=qt" alt="Qt" /></p>
+
+`Qt` · `OpenGL` · `GLSL`
+
+**Networking**
+
+`TCP/IP` · `Wireshark` · `tcpdump`
+
+**Tools & systems**
+
+<p><img src="https://skillicons.dev/icons?i=linux,git,github,docker,latex" alt="Linux, Git, GitHub, Docker and LaTeX" /></p>
+
+`Linux` · `Git` · `GitHub` · `Docker` · `LaTeX`
 
 ### 📂 Featured projects
 
@@ -73,10 +81,6 @@ languages: [Catalan, Spanish, English (B2)]
     </td>
   </tr>
 </table>
-
-### 🏰 Beyond code
-
-Outside the screen I build **human towers**: I'm a *casteller* with the **Castellers del Foix de Cubelles**, a Catalan tradition where teamwork, trust and planning are everything.
 
 ### 📫 Contact
 
