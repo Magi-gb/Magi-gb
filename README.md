@@ -84,8 +84,18 @@ magi = {
   </tr>
 </table>
 
-### 📫 Contact
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mag%C3%ADgb)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:magigarciab2@gmail.com)
-![Barcelona, Catalonia](https://img.shields.io/badge/Barcelona,_Catalonia-555?logo=googlemaps&logoColor=white)
+<div align="center">
+
+### 📫 Let's connect
+
+<a href="https://www.linkedin.com/in/mag%C3%ADgb"><img height="48" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:magigarciab2@gmail.com"><img height="48" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+
+📍 Barcelona, Catalonia
+
+<sub>📌 My pinned projects are just below</sub>
+
+</div>
