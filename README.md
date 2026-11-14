@@ -19,7 +19,7 @@ M'interessen les **xarxes i telecomunicacions**, el **desenvolupament web**, les
 
 </details>
 
-### 🔎 Quick facts
+### 🧭 At a glance
 
 ```ruby
 magi = {
@@ -95,7 +95,5 @@ magi = {
 <a href="mailto:magigarciab2@gmail.com"><img height="48" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 
 📍 Barcelona, Catalonia
-
-<sub>📌 My pinned projects are just below</sub>
 
 </div>
