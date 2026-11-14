@@ -21,30 +21,32 @@ M'interessen les **xarxes i telecomunicacions**, el **desenvolupament web**, les
 
 ### 🔎 Quick facts
 
-<table>
-  <tr><td>🎓 <b>Studying</b></td><td>Computer Engineering, 3rd year · Universitat Politècnica de Catalunya (UPC)</td></tr>
-  <tr><td>🎯 <b>Focus</b></td><td>Networking & telecommunications · Web development · Data · Industry 4.0</td></tr>
-  <tr><td>🌱 <b>Currently learning</b></td><td>Docker · Self-hosting & home servers</td></tr>
-  <tr><td>🗣️ <b>Languages</b></td><td>Catalan · Spanish · English (B2)</td></tr>
-</table>
+```ruby
+magi = {
+  studying:           "Computer Engineering, 3rd year @ UPC",
+  focus:              ["Networking & telecommunications", "Web development", "Data", "Industry 4.0"],
+  currently_learning: ["Docker", "Self-hosting & home servers"],
+  languages:          ["Catalan", "Spanish", "English (B2)"]
+}
+```
 
 ### 🛠️ Stack
 
 **Programming**
 
-<p><img src="https://skillicons.dev/icons?i=c,cpp,ruby" alt="C, C++ and Ruby" /></p>
+<p><img height="32" src="https://skillicons.dev/icons?i=c,cpp,ruby" alt="C, C++ and Ruby" /></p>
 
 `C` · `C++` · `Ruby`
 
 **Web**
 
-<p><img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" /></p>
+<p><img height="32" src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" /></p>
 
 `Ruby on Rails`
 
 **Graphics**
 
-<p><img src="https://skillicons.dev/icons?i=qt" alt="Qt" /></p>
+<p><img height="32" src="https://skillicons.dev/icons?i=qt" alt="Qt" /></p>
 
 `Qt` · `OpenGL` · `GLSL`
 
@@ -54,7 +56,7 @@ M'interessen les **xarxes i telecomunicacions**, el **desenvolupament web**, les
 
 **Tools & systems**
 
-<p><img src="https://skillicons.dev/icons?i=linux,git,github,docker,latex" alt="Linux, Git, GitHub, Docker and LaTeX" /></p>
+<p><img height="32" src="https://skillicons.dev/icons?i=linux,git,github,docker,latex" alt="Linux, Git, GitHub, Docker and LaTeX" /></p>
 
 `Linux` · `Git` · `GitHub` · `Docker` · `LaTeX`
 
