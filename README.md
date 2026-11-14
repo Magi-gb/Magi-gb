@@ -19,6 +19,24 @@ M'interessen les **xarxes i telecomunicacions**, el **desenvolupament web**, les
 
 </details>
 
+### 🧭 At a glance
+
+```yaml
+role: Computer Engineering student (3rd year) @ UPC
+
+focus:
+  - Networking & telecommunications
+  - Web development (Ruby on Rails)
+  - Data
+  - Industry 4.0
+
+currently_exploring:
+  - Docker
+  - Self-hosting & home servers
+
+languages: [Catalan, Spanish, English (B2)]
+```
+
 ### 🛠️ Tech
 
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
@@ -34,9 +52,31 @@ M'interessen les **xarxes i telecomunicacions**, el **desenvolupament web**, les
 
 ### 📂 Featured projects
 
-- 🍽️ **[Serf](https://github.com/Magi-gb/Serf-APP)**: menu management for restaurants based on diners' allergies and intolerances. Built with Ruby on Rails by a 7-person Scrum team for a real client, with code review and CI on GitHub Actions.
-- 🎮 **[INDI · Ghost in the Maze](https://github.com/Magi-gb/INDI)**: 3D maze game in C++ with Qt and OpenGL. Collect the coins and escape the ghost, with first-person camera, minimap, Phong lighting and night mode.
-- 💰 **[Crypto Portfolio Manager](https://github.com/Magi-gb/crypto-portfolio-cli)**: command-line portfolio manager in C++ with daily prices, wallets, buying and selling, average cost and gains, plus a test suite (`make test`).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ <a href="https://github.com/Magi-gb/Serf-APP">Serf</a></h3>
+      <p>Menu management for restaurants based on diners' allergies and intolerances. Built by a 7-person Scrum team for a real client, with code review and CI.</p>
+      <p><code>Ruby on Rails</code> <code>Hotwire</code> <code>GitHub Actions</code> <code>Scrum</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/Magi-gb/INDI">INDI · Ghost in the Maze</a></h3>
+      <p>3D maze game: collect the coins and escape the ghost, with first-person camera, minimap, Phong lighting and night mode.</p>
+      <p><code>C++</code> <code>Qt</code> <code>OpenGL</code> <code>GLSL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>💰 <a href="https://github.com/Magi-gb/crypto-portfolio-cli">Crypto Portfolio Manager</a></h3>
+      <p>Command-line portfolio manager with daily prices, wallets, buying and selling, average cost and gains, plus a test suite.</p>
+      <p><code>C++</code> <code>OOP</code> <code>Makefile</code> <code>Testing</code></p>
+    </td>
+  </tr>
+</table>
+
+### 🏰 Beyond code
+
+Outside the screen I build **human towers**: I'm a *casteller* with the **Castellers del Foix de Cubelles**, a Catalan tradition where teamwork, trust and planning are everything.
 
 ### 📫 Contact
 
