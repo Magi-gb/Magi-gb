@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="404" viewBox="0 0 640 404" role="img" aria-labelledby="titol">
-  <title id="titol">About Magí: Computer Engineering student (3rd year) at UPC. Focus: networking and telecommunications, web development (Ruby on Rails), data, Industry 4.0. Currently exploring: Docker, self-hosting and home servers, AI agents (OpenClaw), Tailscale and VPNs, Linux servers.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="380" viewBox="0 0 640 380" role="img" aria-labelledby="titol">
+  <title id="titol">About Magí: Computer Engineering student (3rd year) at UPC. Focus: networking and telecommunications, web development (Ruby on Rails), data, Industry 4.0. Currently exploring: self-hosting and home servers, AI agents (OpenClaw), Tailscale and VPNs, Linux servers.</title>
   <style>
     .codi { font-family: ui-monospace, SFMono-Regular, "DejaVu Sans Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }
     .clau { fill: #FF6B6B; font-weight: 700; }
@@ -9,7 +9,7 @@
   </style>
 
   <!-- Ventana -->
-  <rect x="1" y="1" width="638" height="402" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <rect x="1" y="1" width="638" height="378" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
   <path d="M1 13 a12 12 0 0 1 12 -12 h614 a12 12 0 0 1 12 12 v25 h-638 z" fill="#161B22"/>
   <line x1="1" y1="38" x2="639" y2="38" stroke="#30363D" stroke-width="1"/>
   <circle cx="24" cy="20" r="6" fill="#FF5F56"/>
@@ -28,10 +28,9 @@
     <text x="46" y="212"><tspan class="signe">- </tspan><tspan class="valor">Industry 4.0</tspan></text>
 
     <text x="28" y="256"><tspan class="clau">currently_exploring</tspan><tspan class="signe">:</tspan></text>
-    <text x="46" y="280"><tspan class="signe">- </tspan><tspan class="valor">Docker</tspan></text>
-    <text x="46" y="304"><tspan class="signe">- </tspan><tspan class="valor">Self-hosting &amp; home servers</tspan></text>
-    <text x="46" y="328"><tspan class="signe">- </tspan><tspan class="valor">Linux servers</tspan></text>
-    <text x="46" y="352"><tspan class="signe">- </tspan><tspan class="valor">Tailscale &amp; VPNs</tspan></text>
-    <text x="46" y="376"><tspan class="signe">- </tspan><tspan class="valor">AI agents (OpenClaw)</tspan></text>
+    <text x="46" y="280"><tspan class="signe">- </tspan><tspan class="valor">Self-hosting &amp; home servers</tspan></text>
+    <text x="46" y="304"><tspan class="signe">- </tspan><tspan class="valor">Linux servers</tspan></text>
+    <text x="46" y="328"><tspan class="signe">- </tspan><tspan class="valor">Tailscale &amp; VPNs</tspan></text>
+    <text x="46" y="352"><tspan class="signe">- </tspan><tspan class="valor">AI agents (OpenClaw)</tspan></text>
   </g>
 </svg>
