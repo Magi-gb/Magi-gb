@@ -83,7 +83,7 @@ M'interessen les **xarxes i telecomunicacions**, el **desenvolupament web**, les
 
 ### 📫 Let's connect
 
-<a href="https://www.linkedin.com/in/mag%C3%ADgb"><img height="48" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/magi-gb"><img height="48" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
 <a href="mailto:magigarciab2@gmail.com"><img height="48" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 
